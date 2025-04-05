@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Ariane Dushime</h1>
 <h3 align="center">A student of software engineering</h3>
 
-- 🔭 I’m currently working on **Home Treasures**
+- 🔭 I’m currently working on my problem-solving skills.
 
-- 🌱 I’m currently learning **React, Spring boot, Scrum**
+- 🌱 I’m currently learning **how to manage my time efficiently**
 
 - 📫 How to reach me **arianedushime941@gmail.com**
 
