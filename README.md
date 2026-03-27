@@ -1,7 +1,7 @@
 <!--- 🌌 Professional GitHub Profile: Data Science & AI Engineering Focus --->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Ariane+Dushime;Data+Science+%26+AI+Engineer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Ariane+Dushime;Aspiring+Data+Science+%26+AI+Engineer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
