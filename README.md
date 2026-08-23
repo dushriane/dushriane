@@ -18,12 +18,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a **Software Engineering student** with a deep passion for **Data Science**, **Machine Learning**, and building scalable AI-driven solutions. I thrive at the intersection of clean code, analytical thinking, and creative problem-solving.
-
-- 🔭 **Currently:** Sharpening my **ML engineering skills** through real-world projects, hackathons, and trainings.
-- 🌱 **Learning:** =**Data Science**, and **Django**.
-- 🤝 **Open to:** Collaborations on **open-source AI/ML projects**,  and innovative hackathons.
-- 🧠 **Philosophy:** *"Elegant solutions to complex problems — one commit at a time."*
+I'm a master's student at CMU-Africa majoring in **Engineering Artificial Intelligence** with a deep passion for **Data Science**, **Machine Learning**, and building scalable AI-driven solutions. I thrive at the intersection of clean code, analytical thinking, and creative problem-solving.
 
 ---
 
